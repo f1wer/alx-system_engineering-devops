@@ -1,0 +1,1 @@
+This directory contaions all shell variable expansion tasks.
